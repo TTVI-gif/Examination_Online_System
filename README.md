@@ -1,5 +1,5 @@
 # Examination_Online_System
-##System have 3 role, register, login
+## System have 3 role, register, login
 1. Admin
 	* manage teacher:
 		- authorize
